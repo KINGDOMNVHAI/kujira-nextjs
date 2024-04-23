@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+input {
+    @apply w-[400px] border border-gray-200 py-2 px-6 bg-zinc-100/40;
+}
+
+.text-deco-none {
+    text-decoration: none;
+}
+
+.min-height-700 {
+    min-height: 700px;
+}
+.min-height-800 {
+    min-height: 800px;
+}
+.min-height-900 {
+    min-height: 900px;
+}
+.min-height-1000 {
+    min-height: 1000px;
+}

@@ -1,0 +1,75 @@
+{
+    "common": {
+        "login": "login",
+        "logout": "logout",
+        "sign-in": "sign in",
+        "register": "register",
+        "password": "password",
+        "forgot-password": "forgot password",
+        "phone": "핸드폰",
+        "email": "메일",
+        "address": "address",
+        "total": "total",
+        "social-media": "social media",
+        "social-network": "social network"
+    },
+    "country": {
+        "english": "영어",
+        "japan": "일본",
+        "korea": "한국",
+        "vietnam": "베트남"
+    },
+    "navbar": {
+        "home": "Home (KR)",
+        "video": "동영상",
+        "about": "회사소개",
+        "contact": "문의하기"
+    },
+    "homepage": {
+        "welcome-message": "Welcome to The JavaScript Way",
+        "topic": "Topic getting covered: Next JS 13.4.4 + i18n"
+    },
+    "about": {
+        "title": "Give info, give benefit!",
+        "description": "KINGDOM NVHAI, founded in July 2015, is a YouTube Channel, website about anime, game, manga, vtuber, social media, designer..."
+    },
+    "contact": {
+        "title": "This is contact page!"
+    },
+
+
+
+    "search-view": {
+        "subcribe-filter": "Subcribe Filter",
+        "subcribe": "subcribe",
+        "increase": "증가하다",
+        "decrease": "감소하다",
+        "vtuber": "vtuber",
+        "development": "개발",
+        "cosplay": "cosplay",
+        "enter-your-keywords": "Enter Your Keywords",
+        "select-youTube-content": "Select YouTube Content"
+    },
+    "channel-list": {
+        "title": "구독한 YOUTUBE 채널 순위",
+        "description": "설명"
+    },
+    "login": {
+        "already-have-an-account": "Already have an account?",
+        "dont-have-an-account": "Don't have an account?",
+        "forgot-password": "Forgot Password?"
+    },
+    "dashboard": {
+        "title": "This is dashboard page!",
+        "number-of-channels": "number of channels"
+    },
+
+
+
+
+    
+    "message": {
+        "request-login": "Request login",
+        "request-login-18-plus": "Nội dung chỉ dành cho độ tuổi 18+. Yêu cầu đăng nhập để xác định độ tuổi."
+    }
+}

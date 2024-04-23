@@ -1,0 +1,90 @@
+body {
+    background: #f7f7ff;
+    margin-top: 20px;
+}
+
+.card {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 0 solid transparent;
+    border-radius: .25rem;
+    margin-bottom: 1.5rem;
+    box-shadow: 0 2px 6px 0 rgb(218 218 253 / 65%), 0 2px 6px 0 rgb(206 206 238 / 54%);
+}
+
+.me-2 {
+    margin-right: .5rem !important;
+}
+
+#bsaHolder {
+    right: 10px;
+    position: absolute;
+    top: 0;
+    width: 345px;
+    z-index: 10
+}
+
+#bsa_closeAd {
+    width: 15px;
+    height: 15px;
+    overflow: hidden;
+    position: absolute;
+    top: 10px;
+    right: 110px;
+    border: none !important;
+    z-index: 1;
+    text-decoration: none !important;
+    background: url(https://bootdey.com/img/x_icon.png) red no-repeat
+}
+
+#carbonads * {
+    margin: initial;
+    padding: initial;
+    text-align: center
+}
+
+#carbonads {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    display: inline-block;
+    font-size: 14px;
+    text-shadow: 0 1px hsla(0, 0%, 100%, .8)
+}
+
+#carbonads a,
+#carbonads a:hover {
+    color: #444;
+    text-decoration: none
+}
+
+#carbonads>span {
+    display: grid;
+    background-color: #f9f9fa;
+    max-width: 250px;
+    padding: 1em;
+    box-sizing: border-box;
+    border-radius: 4px;
+    box-shadow: 0 0 1px hsl(0deg 0% 0% / .075), 0 0 2px hsl(0deg 0% 0% / .075), 0 0 4px hsl(0deg 0% 0% / .075), 0 0 8px hsl(0deg 0% 0% / .075), 0 0 16px hsl(0deg 0% 0% / .075)
+}
+
+#carbonads .carbon-wrap {
+    display: grid;
+    row-gap: 1em
+}
+
+#carbonads .carbon-text {
+    font-size: 1em;
+    margin-bottom: .5em
+}
+
+#carbonads .carbon-poweredby {
+    opacity: .5;
+    font-size: .725em;
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: .05ch
+}

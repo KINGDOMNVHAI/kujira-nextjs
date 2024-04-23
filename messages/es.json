@@ -1,0 +1,75 @@
+{
+    "common": {
+        "login": "login",
+        "logout": "logout",
+        "sign-in": "sign in",
+        "register": "register",
+        "password": "password",
+        "forgot-password": "forgot password",
+        "phone": "phone",
+        "email": "email",
+        "address": "address",
+        "total": "total",
+        "social-media": "social media",
+        "social-network": "social network"
+    },
+    "country": {
+        "english": "english",
+        "japan": "japan",
+        "korea": "korea",
+        "vietnam": "vietnam"
+    },
+    "navbar": {
+        "home": "Home (ES)",
+        "video": "Video",
+        "about": "Home (ES)",
+        "contact": "Home (ES)"
+    },
+    "homepage": {
+        "welcome-message": "Welcome to The JavaScript Way",
+        "topic": "Topic getting covered: Next JS 13.4.4 + i18n"
+    },
+    "about": {
+        "title": "Give info, give benefit!",
+        "description": "KINGDOM NVHAI, founded in July 2015, is a YouTube Channel, website about anime, game, manga, vtuber, social media, designer..."
+    },
+    "contact": {
+        "title": "This is contact page!"
+    },
+
+
+
+    "search-view": {
+        "subcribe-filter": "Subcribe Filter",
+        "subcribe": "subcribe",
+        "increase": "increase",
+        "decrease": "decrease",
+        "vtuber": "vtuber",
+        "development": "development",
+        "cosplay": "cosplay",
+        "enter-your-keywords": "Enter Your Keywords",
+        "select-youTube-content": "Select YouTube Content"
+    },
+    "channel-list": {
+        "title": "SUBSCRIBED YOUTUBE CHANNELS RANKING",
+        "description": "The lists of the most-subscribed YouTube channels in every categories: VTuber, Game, News, Development, etc..."
+    },
+    "login": {
+        "already-have-an-account": "Already have an account?",
+        "dont-have-an-account": "Don't have an account?",
+        "forgot-password": "Forgot Password?"
+    },
+    "dashboard": {
+        "title": "This is dashboard page!",
+        "number-of-channels": "number of channels"
+    },
+
+
+
+
+    
+    "message": {
+        "request-login": "Yêu cầu đăng nhập",
+        "request-login-18-plus": "Nội dung chỉ dành cho độ tuổi 18+. Yêu cầu đăng nhập để xác định độ tuổi."
+    }
+}

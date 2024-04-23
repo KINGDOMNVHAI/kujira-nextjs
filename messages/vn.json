@@ -1,0 +1,75 @@
+{
+    "common": {
+        "login": "đăng nhập",
+        "logout": "đăng xuất",
+        "sign-in": "sign in",
+        "register": "đăng ký",
+        "password": "mật khẩu",
+        "forgot-password": "quên mật khẩu",
+        "phone": "phone",
+        "email": "email",
+        "address": "địa chỉ",
+        "total": "tổng cộng",
+        "social-media": "social media",
+        "social-network": "mạng xã hội"
+    },
+    "country": {
+        "vietnam": "tiếng Việt",
+        "english": "tiếng Anh",
+        "japan": "tiếng Nhật",
+        "korea": "tiếng Hàn"
+    },
+    "navbar": {
+        "home": "trang chủ",
+        "video": "video",
+        "about": "giới thiệu",
+        "contact": "liên hệ"
+    },
+    "homepage": {
+        "welcome-message": "Welcome to The JavaScript Way",
+        "topic": "Topic getting covered: Next JS 13.4.4 + i18n"
+    },
+    "about": {
+        "title": "Cung cấp thông tin, cung cấp lợi ích!",
+        "description": "KINGDOM NVHAI được thành lập vào tháng 7/2015, là một kênh YouTube, website về chủ đề anime, game, manga, vtuber, mạng xã hội, thiết kế..."
+    },
+    "contact": {
+        "title": "Trang liên hệ"
+    },
+
+
+
+    "search-view": {
+        "subcribe-filter": "Số lượt đăng ký",
+        "subcribe": "lượt đăng ký",
+        "increase": "tăng dần",
+        "decrease": "giảm dần",
+        "vtuber": "vtuber",
+        "development": "lập trình",
+        "cosplay": "cosplay",
+        "enter-your-keywords": "Nhập từ khóa",
+        "select-youTube-content": "Chọn nội dung"
+    },
+    "channel-list": {
+        "title": "BẢNG XẾP HẠNG YOUTUBE CHANNEL",
+        "description": "Bảng xếp hạng các kênh YouTube có nhiều subcribe nhất trên mọi lĩnh vực: VTuber, Game, News, Development."
+    },
+    "login": {
+        "already-have-an-account": "Đã có tài khoản?",
+        "dont-have-an-account": "Chưa có tài khoản?",
+        "forgot-password": "Quên mật khẩu?"
+    },
+    "dashboard": {
+        "title": "This is dashboard page!",
+        "number-of-channels": "number of channels"
+    },
+
+
+
+
+    
+    "message": {
+        "request-login": "Yêu cầu đăng nhập",
+        "request-login-18-plus": "Nội dung chỉ dành cho độ tuổi 18+. Yêu cầu đăng nhập để xác định độ tuổi."
+    }
+}
